@@ -5,5 +5,7 @@ __(FORKED FROM [FortySecondsCV](https://github.com/PandaScience/FortySecondsCV))
 
 _**French version :**_
 ![french CV](https://github.com/RcDevRIL/my_cv/blob/master/pics/CV.PNG)
+
+
 _**English version :**_
 ![english CV](https://github.com/RcDevRIL/my_cv/blob/master/pics/CV_en.PNG)
